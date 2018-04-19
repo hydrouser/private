@@ -6,3 +6,5 @@ function doThings(things) {
     things.setStatus("WILL NOT FIX")
     return false;
 }
+
+// new code here
